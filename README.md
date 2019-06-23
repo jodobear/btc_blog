@@ -1,7 +1,4 @@
-# Blog
-
-
-## What is Bitcoin?
+# What is Bitcoin?
 
 What if you could instantly send money permissionlessly and trustlessly to anybody anywhere in the world. What if you could do that for a fraction of the fees that you'd pay your bank. The bank that you have to trust to do the right job in it's own sweet time. The bank you have to trust to keep your information private and not sell it to companies like Facebook. And boy, when did we read the fine print??
 
