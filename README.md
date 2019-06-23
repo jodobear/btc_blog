@@ -15,7 +15,7 @@ If you enjoyed reading this AND heard the song (!), then I'm positive i've pique
 * <a href="https://www.kanaandkatana.com/valuation-depot-contents/2019/4/11/the-case-for-a-small-allocation-to-bitcoin">The case for a small allocation to Bitcoin, by Wences Casares</a>: If you put thought into saving and investing in your future then Wences' argument is undeniable.
 * <a href="https://medium.com/@danhedl/planting-bitcoin-sound-money-72e80e40ff62">Planting Bitcoin - Species, by Dan Held</a>: Appreciating Bitcoin as an evolving organism, a true classic IMHO.
 * <a href="https://amzn.to/2L95bJW">The Bitcoin Standard, by Saifedean Ammous</a>: If there is one thing you should read on Bitoin, read this. It's the most succinct, accessible and no-bullshit account of not just Bitcoin but, money itself.
-* <a href="https://nakamotoinstitute.org/crash-course/">Crash Course in Bitcoin Political Economy, by The Nakamoto Institute</a>: This will clear all the FUD about from your mind.
+* <a href="https://nakamotoinstitute.org/crash-course/">Crash Course in Bitcoin Political Economy, by The Nakamoto Institute</a>: A deeper dive into the socio-economic aspects of Bitcoin and why bitcoin matters today.
 * <a href="https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6">Bitcoin is a Decentralised Organism, by Brandon Quittem</a>: Understanding Bitcoin as a resilient organism with survival mechanism built into it and you will be left with a greater appreciation for fungi too.
 
 ## What is Lightning Network?
